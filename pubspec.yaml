@@ -1,7 +1,6 @@
 name: aplayer
 description: A packge for simle play link to audio files for flutter web
 version: 0.0.1
-author: ouril.info
 homepage: https://github.com/ouril/aplyaer
 
 environment:
@@ -21,11 +20,11 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-  plugin:
-    platforms:
-      web:
-        pluginClass: APlayer
-        fileName: aplayer.dart
+  # plugin:
+  #   platforms:
+  #     web:
+  #       pluginClass: APlayer
+  #       fileName: aplayer.dart
 
   # To add assets to your package, add an assets section, like this:
   # assets:
