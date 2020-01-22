@@ -1,8 +1,8 @@
 name: aplayer
-description: A new Flutter package project.
+description: A packge for simle play link to audio files for flutter web
 version: 0.0.1
-author:
-homepage:
+author: ouril.info
+homepage: https://github.com/ouril/aplyaer
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
